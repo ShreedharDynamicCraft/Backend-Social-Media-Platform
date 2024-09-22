@@ -1,0 +1,23 @@
+{
+  "name": "learnig-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+"scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Shreedhar Anand",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3",
+    "prettier": "^3.3.3"
+  }
+}
