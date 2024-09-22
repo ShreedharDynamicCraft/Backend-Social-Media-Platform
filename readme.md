@@ -1,4 +1,4 @@
-this is  series backend with javascript
+ social media backend with javascript
 
 
 # Backend-Social-Media-Platform
